@@ -15,7 +15,7 @@
 <h2 align="center" id="#objetivo">Objetivo</h2>
     <p align="center">Reformulação da identidade visual e, nova home-page</p>
 <br>
-   <a href="https://ojotav21.github.io/quiz-js/" target="_blank"><img src="https://user-images.githubusercontent.com/60045344/133079866-101b54ad-9b8d-4fa4-b660-dc0aabdb129a.png"/ </a>
+   <a href=" https://ojotav21.github.io/index_beesiness_tcc/" target="_blank"><img src="https://user-images.githubusercontent.com/60045344/133079866-101b54ad-9b8d-4fa4-b660-dc0aabdb129a.png"/ </a>
    
 <h2 align="center" id="#equipe-beesiness">Equipe Beesiness</h2>
    <p align="center" Eduardo Costa de Oliveira</p>
@@ -30,5 +30,5 @@
    <p align="center">Bootstrap para as páginas de login e cadastro</p>
 </ul>
 <br>
-<h1  id="verOSite"align="center"><a href="https://ojotav21.github.io/quiz-js/" target="_blank">Clique aqui para acessar!</a></h1>
+<h1  id="verOSite"align="center"><a href=" https://ojotav21.github.io/index_beesiness_tcc/" target="_blank">Clique aqui para acessar!</a></h1>
 <br>
