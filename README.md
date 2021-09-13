@@ -8,7 +8,7 @@
 <br>
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
- <a href="#autor">Equipe Beesiness</a> •
+ <a href="#equipe-beesiness">Equipe Beesiness</a> •
  <a href="#fontes">Fontes</a> •
  <a href="#verOSite">Ver o site</a>
 </p>
@@ -17,7 +17,7 @@
 <br>
    <a href="https://ojotav21.github.io/quiz-js/" target="_blank"><img src="https://user-images.githubusercontent.com/60045344/133079866-101b54ad-9b8d-4fa4-b660-dc0aabdb129a.png"/ </a>
    
-<h2 align="center" id="#autor">Equipe Beesiness</h2>
+<h2 align="center" id="#equipe-beesiness">Equipe Beesiness</h2>
    <p align="center" Eduardo Costa de Oliveira</p>
     <p align="center" >Gustavo Henrique Silva Pinto</p>
    <p align="center" >João Pedro Morais</p>
