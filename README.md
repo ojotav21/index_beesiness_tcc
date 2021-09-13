@@ -30,5 +30,6 @@
    <p align="center">Bootstrap para as páginas de login e cadastro</p>
 </ul>
 <br>
-<h1  id="verOSite"align="center"><a href=" https://ojotav21.github.io/index_beesiness_tcc/" target="_blank">Clique aqui para acessar!</a></h1>
+<h1  id="verOSite"align="center">
+<a href="https://ojotav21.github.io/index_beesiness_tcc/" target="_blank">Clique aqui para acessar!</a></h1>
 <br>
